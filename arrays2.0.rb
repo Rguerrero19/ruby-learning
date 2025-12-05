@@ -4,6 +4,7 @@ nemes = []
 
 names = %w{Norma Jorje Ignacio Geovanna Bryan}
 
+#por cada
 names.each do |my_name|
     puts my_name
 end
