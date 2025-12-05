@@ -1,15 +1,13 @@
-=begin
-    Comentario multiple linea
-    Declaracion
-    Acceso
-    Modificacion
-=end
+#arrays
 
-ages = [] #array vacia
-names = ['Norma','Jorje','Ignacio','Geovana','Bryan']
+#array vacio
+ages = []
 
-puts names[3] #accder a una pocicion recordae que se inicia con valor 0
+#array con valores
+names = ['ignacio','daniela','julia']
 
-names [3] = 'Geovanna' #modificacion de un  elemento
+#accder a una pocicion de array
+puts names [2]
 
-puts names [3]
+names [2] = 'otro nombre'
+puts names
