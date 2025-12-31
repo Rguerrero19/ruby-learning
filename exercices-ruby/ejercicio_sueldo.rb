@@ -1,3 +1,5 @@
+#crea un scrip utilizando rubuy que permita al usuario calcular el suldo que debera cobrar dependiewndo de sus horas laboradas y el sueldo por hora
+
 puts "ingresa las horas trabajadas por el empleado"
 horas_trabajadas = gets.to_i
 puts "ingresa el pago por hora"
