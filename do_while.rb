@@ -8,3 +8,5 @@ loop do
         break
     end
 end
+
+#break rompe el bloque de codigo en un valor definido
